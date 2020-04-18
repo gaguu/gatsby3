@@ -2,43 +2,32 @@
 templateKey: portfolio
 title: portfolio
 projects:
-  - description: >
-
-    image: /img/bclever.png
+  - description: ""
+    image: /img/freecharge.jpg
     technology: React Native Development
     title: Bclever
     url: https://play.google.com/store/apps/details?id=com.bclubber
-
-  - description: >
-
+  - description: ""
     image: /img/tct.png
     technology: React Native Development
     title: TCT
     url: https://play.google.com/store/apps/details?id=com.tctmd.app
-
-  - description: >
-
+  - description: ""
     image: /img/SVD.png
     technology: ReactJS
     title: SVD
     url: https://play.google.com/store/apps/details?id=com.sivasdescalzo.svd_app
-
-  - description: >
-
+  - description: ""
     image: /img/crf.png
     technology: ReactJS
     title: CRF
     url: https://play.google.com/store/apps/details?id=com.xomodigital.crf
-
-  - description: >
-
+  - description: ""
     image: /img/entrancer.png
     technology: Android Development
     title: Entrancer
     url: https://play.google.com/store/apps/details?id=com.bclever.entrancer
-
-  - description: >
-
+  - description: ""
     image: /img/tct.png
     technology: Android Development
     title: CRF
